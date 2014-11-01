@@ -1,0 +1,26 @@
+body {
+    background-color: deepskyblue;
+    margin: 10%;
+    color: black;
+    font-size: 10pt;
+    font-family: Ariel, Helvetica, sans-serif;
+}
+
+.centered {
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+form {
+    border: solid;
+    border-color: black;
+    border-width: thin;
+}
+
+button {
+
+}
